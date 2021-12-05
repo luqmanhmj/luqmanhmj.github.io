@@ -1,7 +1,8 @@
 ### Site Settings ###
 title               : Luqman's Portfolio
 description         : >-
-                      Engineering graduate who is dabbling into the world of data science.
+                      Welcome to the personal space of a data science newbie, where I share my projects / case studies /
+                      other interesting stuffs.
 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : luqmanhmj.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -24,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Luqman Hakim Mohamad Junaida
-  image             : https://imgur.com/a/zwIfZva
+  image             : assets/images/smile.png
 # behance           : your_username
 # dribbble          : your_username
   email             : luqmanhmj@outlook.com
